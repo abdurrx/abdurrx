@@ -1,9 +1,7 @@
-# Hi there 🚀
+## Hi there 👋🏻
 
-## About Me
-
-- 👨‍💻 Bangkit Academy Cohort 2024 - Cloud Computing
-- 🌱 I'm currently learning in Sekolah Tinggi Teknologi Indonesia Tanjung Pinang
+- 👨‍💻 Mobile Development and Cloud Computing Graduate from Bangkit Academy 2023 & 2024
+- 🌱 Bachelor of Informatics Engineering from Sekolah Tinggi Teknologi Indonesia Tanjung Pinang
 - 💬 Ask me about [Instagram](https://instagram.com/abdur.rahmanux)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/abdurrx)
 
